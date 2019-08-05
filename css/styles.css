@@ -169,12 +169,16 @@ p {
 }
 
 .testimonial-image {
-    width: 20%;
-    border-radius: 0%;
+    width: 100px;
     margin: 10px;
     height: 100px;
 }
 
+.testimonial-image-chromebook{
+    width: 173px;
+    margin: 10px;
+    height: 100px;
+}
 .leader {
     padding-top: 1rem;
 }
