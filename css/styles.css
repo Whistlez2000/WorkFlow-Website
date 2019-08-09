@@ -27,13 +27,13 @@ p {
 .big-heading_white {
   font-family: "Montserrat";
   font-weight: 800;
-  font-size: 2.5 rem;
+  font-size: 2.5;
   color: azure;
   padding-top: 1rem;
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: 3;
   line-height: 1.5;
   font-weight: bold;
 }
@@ -53,6 +53,7 @@ p {
   background-color: #50aafc;
   /**** MB Powder Blue background ****/
   color: slategrey;
+  padding-bottom: 20px;
 }
 
 .white-section {
@@ -152,6 +153,12 @@ p {
   /**** MB Light Blue background ****/
 }
 
+#support {
+  background-color: #ebf0f8;
+  /**** MB Light Blue background ****/
+  padding-bottom: 20px;
+}
+
 #videos {
   background-color: #2971b9;
   /**** MB Dark Blue background ****/
@@ -178,6 +185,7 @@ p {
 
 .leader {
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 #press {
